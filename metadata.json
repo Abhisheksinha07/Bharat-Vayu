@@ -1,0 +1,7 @@
+{
+  "name": "Bharat Vayu: AI Air Quality Predictor",
+  "description": "Real-time air quality monitoring and AI-powered AQI forecasting with personalized health advisories.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
